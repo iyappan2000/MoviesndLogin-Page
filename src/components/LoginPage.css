@@ -1,0 +1,19 @@
+.Card {
+  min-height: 160px;
+  width: 400px;
+  border: 1px solid gray;
+  margin: 270px 500px;
+  box-shadow: gray;
+  border-radius: 10px;
+}
+.Card-Head {
+  text-align: center;
+  margin: 10px;
+}
+.login-form {
+  margin: 10px;
+  padding: 10px;
+}
+#username {
+  padding: 10px;
+}
